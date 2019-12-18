@@ -6,4 +6,4 @@ Scalene: It's a triangle with  sides of differing lengths.
 Not A Triangle: The given values of A, B, and C don't form a triangle.
 
 
-![The TRIANGLES table](https://s3.amazonaws.com/hr-challenge-images/12887/1443815629-ac2a843fb7-1.pngs);
+![The TRIANGLES table](https://s3.amazonaws.com/hr-challenge-images/12887/1443815629-ac2a843fb7-1.png);
