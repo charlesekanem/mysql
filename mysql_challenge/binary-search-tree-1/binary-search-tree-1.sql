@@ -1,4 +1,3 @@
-    
 SELECT N, 
 IF(P IS NULL, 'Root', 
 IF((SELECT COUNT(*) 
