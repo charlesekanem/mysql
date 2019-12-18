@@ -1,4 +1,3 @@
-
 SET sql_mode='';  
 SELECT DISTINCT
   C.company_code,
