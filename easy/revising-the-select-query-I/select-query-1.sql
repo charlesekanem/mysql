@@ -1,4 +1,4 @@
-select*from city 
-    where population>100000 and countrycode='usa';
+SELECT*FROM city 
+WHERE POPULATION>100000 AND countrycode='usa';
 
     
