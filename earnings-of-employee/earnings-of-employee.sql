@@ -1,4 +1,3 @@
-
 SELECT (months*salary) as earnings, COUNT(*) 
 FROM Employee 
 GROUP BY earnings 
