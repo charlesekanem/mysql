@@ -1,4 +1,3 @@
-
 SELECT S.Name FROM Students AS S 
 JOIN Packages AS SP ON S.ID = SP.ID 
 JOIN Friends AS F ON S.ID = F.ID
